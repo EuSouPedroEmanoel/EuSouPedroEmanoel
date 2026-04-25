@@ -24,5 +24,11 @@ Aqui estão as tecnologias que estou focando no momento:
 <img src="https://img.shields.io/badge/Python-0000FF?style=plastic&logo=python&logoColor=white" style="height: 50;"/>
 </div>
 
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EuSouPedroEmanoel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuSouPedroEmanoel&layout=compact&theme=radical" />
+</p>
 ### 📫 Vamos conversar?
 * pedroemanoel.dev@gmail.com

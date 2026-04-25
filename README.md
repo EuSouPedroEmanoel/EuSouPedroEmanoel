@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Pedro Emanoel! 🙂
 
-<!--
-**EuSouPedroEmanoel/EuSouPedroEmanoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+➜ Cursando Análise e Desenvolvimento de Sistemas na **Fatec Ourinhos**.
+➜ Entusiasta de Linux (Arch btw!) e do ecossistema web.
+➜ Buscando sempre aprender e evoluir no dia a dia.
 
-Here are some ideas to get you started:
+---
+### 🛠 Tech Stack
+Aqui estão as tecnologias que estou focando no momento:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Frontend:** React, Vite, Tailwind CSS
+* **Sistemas:** Arch Linux, Bash, Git
+* **Banco de Dados:** PostgreSQL
+
+### 🚀 Linguagens:
+
+<img src="https://img.shields.io/badge/javascript-yellow?style=plastic&logo=javascript" height="50" /> <img src="https://img.shields.io/badge/typescript-blue?style=plastic&logo=typescript&logoColor=white" height="50" /> <img src="https://img.shields.io/badge/mariadb-003545?style=plastic&logo=mariadb&" height="50" /> <img src="https://img.shields.io/badge/Python-0000FF?style=plastic&logo=python&logoColor=white" height="50" />
+
+
+### 📫 Vamos conversar?
+* [pedroemanoel.dev@gmail.com]

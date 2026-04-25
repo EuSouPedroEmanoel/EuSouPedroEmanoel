@@ -9,7 +9,6 @@
 Aqui estão as tecnologias que estou focando no momento:
 
 * **Frontend:** React, Vite, Tailwind CSS
-* **Sistemas:** Arch Linux, Bash, Git
 * **Banco de Dados:** PostgreSQL
 
 ### 🚀 Linguagens:

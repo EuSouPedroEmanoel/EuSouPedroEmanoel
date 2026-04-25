@@ -6,7 +6,7 @@
 
 ---
 ### 🛠 Tech Stack
-Aqui estão as tecnologias que estou focando no momento:
+Aqui estão as tecnologias que estou estudando no momento:
 
 * **Frontend:** React, Vite, Tailwind CSS
 * **Sistemas:** Arch Linux, Bash, Git
@@ -14,7 +14,7 @@ Aqui estão as tecnologias que estou focando no momento:
 
 ### 🚀 Linguagens:
 
-<img src="https://img.shields.io/badge/javascript-yellow?style=plastic&logo=javascript" height="50" /> <img src="https://img.shields.io/badge/typescript-blue?style=plastic&logo=typescript&logoColor=white" height="50" /> <img src="https://img.shields.io/badge/mariadb-003545?style=plastic&logo=mariadb&" height="50" /> <img src="https://img.shields.io/badge/Python-0000FF?style=plastic&logo=python&logoColor=white" height="50" />
+<img src="https://img.shields.io/badge/javascript-yellow?style=plastic&logo=javascript" height="50" /> <img src="https://img.shields.io/badge/typescript-blue?style=plastic&logo=typescript&logoColor=white" height="100" /> <img src="https://img.shields.io/badge/mariadb-003545?style=plastic&logo=mariadb&" height="100" /> <img src="https://img.shields.io/badge/Python-0000FF?style=plastic&logo=python&logoColor=white" height="100" />
 
 
 ### 📫 Vamos conversar?

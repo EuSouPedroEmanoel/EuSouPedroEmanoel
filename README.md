@@ -25,4 +25,4 @@ Aqui estão as tecnologias que estou focando no momento:
 </div>
 
 ### 📫 Vamos conversar?
-* [pedroemanoel.dev@gmail.com]
+* pedroemanoel.dev@gmail.com

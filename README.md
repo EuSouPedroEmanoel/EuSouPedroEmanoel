@@ -25,7 +25,7 @@ Aqui estão as tecnologias que estou focando no momento:
 
 ### 📊 Estatísticas do GitHub
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuSouPedroEmanoel&layout=compact&theme=radical" />
+ ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EuSouPedroEmanoel&layout=compact&theme=radical)
 
 ### 📫 Vamos conversar?
 * pedroemanoel.dev@gmail.com
